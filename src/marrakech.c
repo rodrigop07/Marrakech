@@ -4,7 +4,7 @@
 #include <string.h>
 #include <windows.h>
 #include <ctype.h>
-#include "marrakech.h"
+#include "../headers/marrakech.h"
 
 typedef struct tapete{
     char cor[10];
